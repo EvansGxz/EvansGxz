@@ -24,7 +24,7 @@
 
 <p align="center">
   <em>
-    Hello, I am Evans Gonzalez a <b>final year</b> Full Stack from <a href="https://www.codeable.la/"> <b>Codeable</b>, Perú</a>. <br>
+    Hello, I am Evans Gonzalez a Full Stack from <a href="https://www.codeable.la/"> <b>Codeable</b>, Perú</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
