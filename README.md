@@ -8,7 +8,7 @@
  </p>
 
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Evans Gonzalez </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">, I am Evans Gonzalez </h1>
 <h3 align="center">Systems Engineer | Full-Stack Developer </h3>
 
 <p align="center">
